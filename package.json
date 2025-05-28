@@ -1,0 +1,23 @@
+{
+  "name": "rootsage.github.io",
+  "version": "1.0.0",
+  "description": "My site",
+  "main": "index.js",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.7",
+    "tailwindcss": "^4.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RootSage/RootSage.github.io.git"
+  },
+  "author": "Robert Sage Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RootSage/RootSage.github.io/issues"
+  },
+  "homepage": "https://github.com/RootSage/RootSage.github.io#readme"
+}
